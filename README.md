@@ -37,7 +37,7 @@ python3 app.py
 ```
 
 ## Finite State Machine
-![fsm](./img/show-fsm.png)
+<img width="890" alt="image" src="https://user-images.githubusercontent.com/91595538/209441950-5ba9b0ac-83bf-4f88-848d-bbdce49f9e6d.png">
 
 ## Usage
 This linebot offer 3 services. 
